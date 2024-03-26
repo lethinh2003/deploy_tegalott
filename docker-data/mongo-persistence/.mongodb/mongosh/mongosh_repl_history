@@ -1,0 +1,22 @@
+db.HeThong.find()
+show collections
+help
+hel[p hel[p
+use admin
+show dbs
+db
+db.admin.find()
+db.admin
+use admin
+db
+db.admin.findOne()
+db.admin
+db
+use admin
+db
+mongosh
+db.getUsers()
+use admin
+db.getUsers()
+use admin
+db.getUsers()
